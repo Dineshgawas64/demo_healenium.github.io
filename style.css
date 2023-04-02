@@ -50,8 +50,8 @@ nav .menu{
   transition: all 0.3s ease;
 }
 .menu ul li a:hover{
-  background: #fff;
-  color: black;
+  background: #a0a0a0;
+  color: rgb(255, 0, 0);
 }
 .img{
   background: url('img3.jpg')no-repeat;
@@ -82,21 +82,21 @@ nav .menu{
   font-size: 55px;
   font-weight: 600;
 }
-.center .sub_title_changed{
-  color: #fff;
-  font-size: 52px;
+.center .sub_title_changed_again{
+  color: #231f1f;
+  font-size: 50px;
   font-weight: 600;
 }
 .center .btns{
   margin-top: 20px;
 }
 .center .btns button{
-  height: 55px;
-  width: 170px;
-  border-radius: 5px;
+  height: 54px;
+  width: 168px;
+  border-radius: 6px;
   border: none;
   margin: 0 10px;
-  border: 2px solid white;
+  border: 2px solid rgb(172, 163, 163);
   font-size: 20px;
   font-weight: 500;
   padding: 0 10px;
